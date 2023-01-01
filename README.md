@@ -1,7 +1,7 @@
 # Sudoku-Solver-Artificial-Intelligence
 Sudoku Solver using Genetic  and CSP Algorithm
 
-A simple GUI sudoku solver using AI
+A simple GUI sudoku solver using AI ,
 Download the ZIP file and run main.py 
 
 Algorithm credit-
